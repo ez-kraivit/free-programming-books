@@ -11,6 +11,7 @@
   * [Vue.js](#vuejs)
 * [Python](#python)
 * [Ruby](#Ruby)
+* [Solidity](https://github.com/Solidity-Thailand)
 
 
 ### C
